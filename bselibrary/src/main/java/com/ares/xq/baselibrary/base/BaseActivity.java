@@ -17,15 +17,9 @@ public abstract  class BaseActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        if(getContentViewId()>0)
-            setContentView(getContentViewId());
         AppManager.getAppManager().addActivity(this);
-        getContentViewId();
-        initGui();
-        initAction();
-        initData();
-
     }
+
 
     //activity布局
     protected abstract int getContentViewId();

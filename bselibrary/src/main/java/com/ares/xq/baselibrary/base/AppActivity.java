@@ -12,9 +12,8 @@ public abstract class AppActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        if(getContentViewId()>0)
+        if (getContentViewId() > 0)
             setContentView(getContentViewId());
-        getContentViewId();
         initGui();
         initAction();
         initData();

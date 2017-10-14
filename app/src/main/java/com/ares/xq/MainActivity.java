@@ -3,7 +3,6 @@ package com.ares.xq;
 import android.content.Intent;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 
 import com.ares.xq.activity.TouchActivity;
 import com.ares.xq.adapter.MainAdapter;

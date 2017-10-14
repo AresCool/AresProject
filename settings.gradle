@@ -1,1 +1,1 @@
-include ':app', ':bselibrary'
+include ':app', ':bselibrary', ':Itemtouchlibrary'

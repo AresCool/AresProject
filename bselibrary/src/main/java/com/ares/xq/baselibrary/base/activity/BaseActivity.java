@@ -1,4 +1,4 @@
-package com.ares.xq.baselibrary.base;
+package com.ares.xq.baselibrary.base.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

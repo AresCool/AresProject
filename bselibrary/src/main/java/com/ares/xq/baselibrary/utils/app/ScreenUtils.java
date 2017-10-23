@@ -1,4 +1,4 @@
-package com.ares.xq.baselibrary.utils;
+package com.ares.xq.baselibrary.utils.app;
 
 /**
  * 获得屏幕相关的辅助类

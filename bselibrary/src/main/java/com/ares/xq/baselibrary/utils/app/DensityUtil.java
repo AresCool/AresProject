@@ -1,4 +1,4 @@
-package com.ares.xq.baselibrary.utils;
+package com.ares.xq.baselibrary.utils.app;
 
 import android.content.Context;
 

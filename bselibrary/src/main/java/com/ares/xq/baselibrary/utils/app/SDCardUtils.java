@@ -1,14 +1,14 @@
-package com.ares.xq.baselibrary.utils;
+package com.ares.xq.baselibrary.utils.app;
 
 /**
  * SD卡相关的辅助类
  * Created by Ares on 2015/10/13.
  */
 
-import java.io.File;
-
 import android.os.Environment;
 import android.os.StatFs;
+
+import java.io.File;
 
 public class SDCardUtils {
     private SDCardUtils() {

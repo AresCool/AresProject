@@ -1,4 +1,4 @@
-package com.ares.xq.baselibrary.utils;
+package com.ares.xq.baselibrary.utils.sys;
 
 /**
  * 日志相关管理类

@@ -1,4 +1,4 @@
-package com.ares.xq.baselibrary.utils;
+package com.ares.xq.baselibrary.utils.encrypt;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

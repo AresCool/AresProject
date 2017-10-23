@@ -1,4 +1,4 @@
-package com.ares.xq.baselibrary.utils.app;
+package com.ares.xq.baselibrary.utils.sys;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

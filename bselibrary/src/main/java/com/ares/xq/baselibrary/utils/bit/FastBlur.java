@@ -5,7 +5,6 @@ import android.media.ThumbnailUtils;
 
 /**
  * 作者：Administrator on 2016/8/16 14:29
- * 邮箱：906514731@qq.com
  * 毛玻璃效果
  */
 public class FastBlur {

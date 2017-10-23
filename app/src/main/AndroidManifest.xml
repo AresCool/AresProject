@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ares.xq">
 
-    <!--加载网络-->
-    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <!-- 加载网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -26,6 +26,9 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".activity.GlideActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.RecListActivity"
             android:screenOrientation="portrait"></activity>
     </application>
 

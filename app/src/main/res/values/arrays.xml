@@ -3,5 +3,6 @@
     <string-array name="itemName">
         <item>仿QQ列表的Item左侧滑</item>
         <item>Glide加载图片</item>
+        <item>列表界面</item>
     </string-array>
 </resources>

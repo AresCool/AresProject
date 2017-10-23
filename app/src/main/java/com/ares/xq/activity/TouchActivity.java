@@ -6,7 +6,7 @@ import android.support.v7.widget.RecyclerView;
 
 import com.ares.xq.R;
 import com.ares.xq.adapter.MessageListAdapter;
-import com.ares.xq.baselibrary.base.AppActivity;
+import com.ares.xq.baselibrary.base.activity.AppActivity;
 import com.ares.xq.itemtouchlibrary.ItemTouchHelper;
 import com.ares.xq.itemtouchlibrary.ItemTouchHelperCallback;
 
@@ -17,7 +17,7 @@ import java.util.List;
  * Created by Administrator on 2017/10/14.
  */
 
-public class TouchActivity extends AppActivity{
+public class TouchActivity extends AppActivity {
 
     @Override
     protected int getContentViewId() {

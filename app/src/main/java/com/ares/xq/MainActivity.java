@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
+import com.ares.xq.activity.GlideActivity;
 import com.ares.xq.activity.TouchActivity;
 import com.ares.xq.adapter.MainAdapter;
 import com.ares.xq.baselibrary.base.AppActivity;
@@ -55,8 +56,11 @@ public class MainActivity extends AppActivity implements MainAdapter.MainAdapter
     public void onMainItemClick(int position) {
         Intent intent = new Intent();
         switch (position) {
-            case 0:
+            case 0://QQ侧滑
                 intent.setClass(this,TouchActivity.class);
+                break;
+            case 1://Glide 加载图片
+                intent.setClass(this,GlideActivity.class);
                 break;
             default:
                 break;

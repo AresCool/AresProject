@@ -1,1 +1,1 @@
-include ':app', ':bselibrary', ':Itemtouchlibrary'
+include ':app', ':bselibrary', ':Itemtouchlibrary', ':refreshLayoutLibrary'

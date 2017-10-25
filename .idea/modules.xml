@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Itemtouchlibrary/Itemtouchlibrary.iml" filepath="$PROJECT_DIR$/Itemtouchlibrary/Itemtouchlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bselibrary/bselibrary.iml" filepath="$PROJECT_DIR$/bselibrary/bselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshLayoutLibrary/refreshLayoutLibrary.iml" filepath="$PROJECT_DIR$/refreshLayoutLibrary/refreshLayoutLibrary.iml" />
     </modules>
   </component>
 </project>

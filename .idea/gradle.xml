@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/Itemtouchlibrary" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bselibrary" />
+            <option value="$PROJECT_DIR$/refreshLayoutLibrary" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

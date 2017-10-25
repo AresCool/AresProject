@@ -8,6 +8,7 @@ import com.ares.xq.activity.GlideActivity;
 import com.ares.xq.activity.RecListActivity;
 import com.ares.xq.activity.RoundActivity;
 import com.ares.xq.activity.TouchActivity;
+import com.ares.xq.activity.flow.CategoryActivity;
 import com.ares.xq.adapter.MainAdapter;
 import com.ares.xq.baselibrary.base.activity.AppActivity;
 
@@ -69,8 +70,11 @@ public class MainActivity extends AppActivity implements MainAdapter.MainAdapter
             case 2://列表
                 intent.setClass(this,RecListActivity.class);
                 break;
-            case 3:
+            case 3://原图头像
                 intent.setClass(this,RoundActivity.class);
+                break;
+            case 4://FlowLayout
+                intent.setClass(this,CategoryActivity.class);
                 break;
             default:
                 break;

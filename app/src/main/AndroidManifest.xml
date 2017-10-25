@@ -33,6 +33,10 @@
         <activity
             android:name=".activity.RoundActivity"
             android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".activity.flow.CategoryActivity"
+            android:screenOrientation="portrait"></activity>
+
     </application>
 
 </manifest>

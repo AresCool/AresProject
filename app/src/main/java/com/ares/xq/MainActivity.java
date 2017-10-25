@@ -6,6 +6,7 @@ import android.support.v7.widget.RecyclerView;
 
 import com.ares.xq.activity.GlideActivity;
 import com.ares.xq.activity.RecListActivity;
+import com.ares.xq.activity.RoundActivity;
 import com.ares.xq.activity.TouchActivity;
 import com.ares.xq.adapter.MainAdapter;
 import com.ares.xq.baselibrary.base.activity.AppActivity;
@@ -65,8 +66,11 @@ public class MainActivity extends AppActivity implements MainAdapter.MainAdapter
             case 1://Glide 加载图片
                 intent.setClass(this,GlideActivity.class);
                 break;
-            case 2:
+            case 2://列表
                 intent.setClass(this,RecListActivity.class);
+                break;
+            case 3:
+                intent.setClass(this,RoundActivity.class);
                 break;
             default:
                 break;

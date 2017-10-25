@@ -29,6 +29,9 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".activity.RecListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.RoundActivity"
             android:screenOrientation="portrait"></activity>
     </application>
 
